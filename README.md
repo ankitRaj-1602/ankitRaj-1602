@@ -1,13 +1,14 @@
-<h1 align="center">Hi 
+
+<h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align=”right” alt=”coding” width=”400” src=”https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitraj-1602&label=Profile%20views&color=0e75b6&style=flat" alt="ankitraj-1602" /> </p>
 
-- 
+- 🌱 I’m currently learning **MERN Stack**
 
-- 
+- 💬 Ask me about **MERN Stack**
 
-- 
+- 📫 How to reach me **nycankit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +23,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitraj-1602&show_icons=true&locale=en" alt="ankitraj-1602" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitraj-1602&" alt="ankitraj-1602" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
